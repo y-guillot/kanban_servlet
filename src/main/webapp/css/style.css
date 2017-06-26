@@ -1,0 +1,14 @@
+@CHARSET "UTF-8";
+
+body {
+	background-color: #ddd;
+}
+
+#logout {
+	text-decoration: none;
+	color: #ff9000;
+}
+
+#logout:hover {
+	text-decoration: underline;
+}
